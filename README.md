@@ -1,6 +1,7 @@
 # IT342-G1-Activity01
 
-
+Name: John David R. Catulong
+Course & Year: BSIT-4
 
 # IT342-G1-Activity01
 

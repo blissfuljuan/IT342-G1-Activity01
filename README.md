@@ -1,4 +1,8 @@
 # IT342-G1-Activity01
+Name: Jannah Lovelle B. Sendrijas
+Course & Year: IT 342 - 3
+
+"Progress is not linear"
 
 Name: Paden, Arnel
 Course & Year: BSIT-3
@@ -13,8 +17,6 @@ Course & Year: IT 342 - 3
 "Never Stop Exploring!"
 ***
 
-
-# IT342-G1-Activity01
     Name: Brian Steve E. Pila
     Course & Year: IT-342 - 3
 

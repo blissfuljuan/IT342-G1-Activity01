@@ -27,6 +27,14 @@ Course & Year : BSIT-3
 I am who I am
 =======
 
+Name: ARDA, Brett Westley A.
+Course & Year: BSIT-3
+
+Here I am sitting
+
+**************
+
+
 Name: Paden, Arnel
 Course & Year: BSIT-3
 
@@ -44,7 +52,11 @@ Course & Year: IT 342 - 3
 
 
 
+
+
 # IT342-G1-Activity01
+
+
 Name: Martin John V. Tabasa
 Course & Year: BSIT-3
 

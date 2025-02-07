@@ -1,3 +1,14 @@
+
+
+# IT342-G1-Activity01
+Name: Vic Andre Bacusmo
+
+Course & Year: BSIT-3
+
+dont me
+
+# IT342-G1-Activity01 
+
 # IT342-G1-Activity01
 Name: Nicolo Porter
 Course & Year: BSIT-3
@@ -53,6 +64,7 @@ love what you do
     Course & Year: IT-342 - 3
 
     Special Quote: "Walay lami ang kinabuhi kung walay karne🥩🥩🥩"
+
 
 Name: Matthew Emmanuel O. Echavez\
 Course & Year: IT342 - 3

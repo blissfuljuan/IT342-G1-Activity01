@@ -1,15 +1,31 @@
 # IT342-G1-Activity01
 
+feature-myprofile-catulong
+feature-myprofile-catulong
+Name: John David R. Catulong
+Course & Year: BSIT-4
+
+unsaid words
+
 Name: Alivio, Alyssa Blanche S. <br>
 Program & Year : BSIT - 3
 Hi! HRU?
+main
 
 Name: Walter Canencia
 Course & Year: BSIT - 3
 
 Rumbling rumbling
 
+feature-myprofile-catulong
 
+
+main
+
+# IT342-G1-Activity01
+
+
+main
 
 Name: Shane Adrian Opinion
 Course & Year: BSIT-3

@@ -2,6 +2,6 @@
 Name: Jermaine L. Gadiano
 Course & Year: BSIT-3
 
-“It’s just pathetic to give up on something before you even give it a shot.”
+If You Begin To Regret, You’ll Dull Your Future Decisions And Let Others Make Your Choices For You.
 
 ***

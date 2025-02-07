@@ -32,6 +32,14 @@ Course & Year: IT 342 - 3
 
 "Progress is not linear"
 
+
+Name: Joshua Daniel B. Pusing
+Course & Year: BSIT-3
+
+I am who i am
+
+***
+
 Name: Paul Dave Q. Binoya
 Course & Year : BSIT-3
 
@@ -44,6 +52,7 @@ Course & Year: BSIT-3
 Here I am sitting
 
 **************
+
 
 
 Name: Paden, Arnel
@@ -164,8 +173,5 @@ I'm sleepy huhu
 
 
 ****
-
-
-
 
 

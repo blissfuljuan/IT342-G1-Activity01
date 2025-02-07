@@ -57,6 +57,23 @@ Course & Year: IT 342 - 3
 # IT342-G1-Activity01
 
 
+
+Name: Martin John V. Tabasa
+Course & Year: BSIT-3
+
+
+
+Name: Jhean Hecari B. Caag
+Course: & Year: BSIT-3
+
+Life goes on...
+
+***
+=======
+
+# IT342-G1-Activity01
+=======
+=======
 Name: Martin John V. Tabasa
 Course & Year: BSIT-3
 
@@ -66,10 +83,6 @@ love what you do
 
 # IT342-G1-Activity01
 
-
-
-# IT342-G1-Activity01
-=======
 
 
     Name: Brian Steve E. Pila
@@ -141,4 +154,3 @@ I'm sleepy huhu
 
 
 ****
-

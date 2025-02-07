@@ -3,6 +3,6 @@
 Name: Ezekiel Gil Saludsod
 Course & Year: BSIT-3
 
-You can be whatever you want be
+Not every hole is meant to be entered
 
 ***

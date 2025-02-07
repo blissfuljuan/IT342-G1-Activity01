@@ -21,7 +21,7 @@ It is what it is
 Name: Selina Mae V. Genosolango
 Course & Year: BSIT - 3
 
-Honesty is the best policy
+It takes grace to remain kind in cruel situations.
 
 ***
 Name: John Michael Pogoy

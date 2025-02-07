@@ -2,6 +2,6 @@
 Name: Jhean Hecari B. Caag
 Course: & Year: BSIT-3
 
-Life goes on
+Life goes on...
 
 ***

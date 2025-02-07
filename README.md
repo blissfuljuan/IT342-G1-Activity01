@@ -1,3 +1,4 @@
+# IT342-G1-Activity01
 
 # IT342-G1-Activity01
 
@@ -7,8 +8,13 @@ Course & Year: BSIT - 3
 Rumbling rumbling
 
 
+Name: Alec R. Arela
+Course: & Year : BSIT-3
 
-# IT342-G1-Activity01
+Kill them with kindness
+
+***
+
 Name: Jermaine L. Gadiano
 Course & Year: BSIT-3
 
@@ -16,19 +22,11 @@ If You Begin To Regret, You’ll Dull Your Future Decisions And Let Others Make 
 
 ***
 
-# IT342-G1-Activity01 
-
-
 Name: Vic Andre Bacusmo
 
 Course & Year: BSIT-3
 
 dont me
-
-# IT342-G1-Activity01 
-
-# IT342-G1-Activity01
-
 
 Name: Angelo C. Quieta  
 Course & Year: BSIT-4  
@@ -194,9 +192,6 @@ Kenny is my name and I am ready.
 Name: ADOPTANTE, Ivan Jay S. <br>
 Program & Year : BSIT - 3
 
-I'm sleepy huhu
 
-
-****
 
 

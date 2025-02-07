@@ -1,6 +1,15 @@
 
 # IT342-G1-Activity01
 
+Name: John Michael Baclayon
+Course & Year: BSIT - 4
+
+Don't never giveup
+
+============
+
+# IT342-G1-Activity01
+
 Name: Walter Canencia
 Course & Year: BSIT - 3
 

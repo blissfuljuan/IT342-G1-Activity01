@@ -1,4 +1,10 @@
 # IT342-G1-Activity01
+Name: Nicolo Porter
+Course & Year: BSIT-3
+
+I am who I am
+
+***
 Name: Jannah Lovelle B. Sendrijas
 Course & Year: IT 342 - 3
 
@@ -73,6 +79,12 @@ Keep moving forward!
 
 ***
 
+Name: Nathan John G. Orlanes
+Course & Year: BSIT-3
+
+Let not my enemies triumph over me!
+
+***
 
 
 Name: Michael Harry P. Leones<br>
@@ -103,5 +115,3 @@ I'm sleepy huhu
 
 
 ****
-
-

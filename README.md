@@ -1,6 +1,7 @@
 # IT342-G1-Activity01
 
 
+
 # IT342-G1-Activity01
 
 Name: Shane Adrian Opinion
@@ -13,6 +14,31 @@ It is what it is
 
 
 =======
+=======
+Name: Selina Mae V. Genosolango
+Course & Year: BSIT - 3
+
+Honesty is the best policy
+
+***
+
+=======
+=======
+# IT342-G1-Activity01
+
+Name: John Michael Pogoy
+Course & Year: BSIT-3 
+
+I am what I eat
+
+===
+=======
+feature-myprofile-caaway
+Name: Caaway, Levi Ray T.  
+Course & Year: BSIT - 3
+
+When you're gonna do something wrong, do it right.
+
 Name: Mary Apple F. Ramos  
 Course & Year: BSIT-3
 
@@ -107,8 +133,7 @@ Course & Year: BSIT-3
 Not every hole is meant to be entered
 
 ***
-=======
-=======
+
 
 
 Name: Martin John V. Tabasa
@@ -125,6 +150,11 @@ Life goes on...
 
 
 # IT342-G1-Activity01
+
+Name: Ben David Cadayona
+Course & Year: BSIT-4
+
+If I do not have to do it, I wont. If I have to do it, I'll make it quick
 
 Name: Martin John V. Tabasa
 Course & Year: BSIT-3
@@ -211,7 +241,6 @@ Course & Year: BSIT - 3
 =======
 Kenny is my name and I am ready.
 
-****
 
 Name: Stela Maries L. Asufra  
 Course & Year: BSIT-3
@@ -220,7 +249,7 @@ It is what it is
 
 ***
 
-=======
+
 Name: Justin Alexander A. Labajos  
 Course & Year: BSIT - 3
 
@@ -240,13 +269,9 @@ I'm sleepy huhu
 
 
 
-=======
+
+ main
 
 ****
-=======
-
-=======
-
-
 
 

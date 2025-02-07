@@ -28,6 +28,11 @@ dont me
 # IT342-G1-Activity01 
 
 # IT342-G1-Activity01
+
+
+Name: Angelo C. Quieta  
+Course & Year: BSIT-4  
+
 Name: Nicolo Porter
 Course & Year: BSIT-3
 
@@ -69,6 +74,7 @@ Course & Year: BSIT-3
 All religion is a foolish answer to a foolish question
 
 ***
+
 
 
 Name: Ephraim Jay A. Solasco\
@@ -167,6 +173,17 @@ Show me your thorns and I'll show you hands ready to bleed.
 
 ***
 
+
+I am who I am  
+
+***
+
+Name: ADOPTANTE, Ivan Jay S.  
+Program & Year : BSIT - 3  
+
+I'm sleepy huhu
+
+********
 Name: John Kenny C. Quijote <br>
 Course & Year: BSIT - 3
 

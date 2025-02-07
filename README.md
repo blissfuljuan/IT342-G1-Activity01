@@ -34,7 +34,20 @@ Course & Year: IT 342 - 3
 
 
 # IT342-G1-Activity01
+Name: Martin John V. Tabasa
+Course & Year: BSIT-3
+
+love what you do
+
+
+
+# IT342-G1-Activity01
+
+
+
+# IT342-G1-Activity01
 =======
+
 
     Name: Brian Steve E. Pila
     Course & Year: IT-342 - 3

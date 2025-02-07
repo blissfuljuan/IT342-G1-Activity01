@@ -1,5 +1,12 @@
 # IT342-G1-Activity01
 
+Name: Margaret Anne C. Matunog  
+Course & Year: BSIT - 3
+
+Nakakapagod mag BS Org huhu
+
+***
+
 Name: Michael Harry P. Leones<br>
 Course & Year: BSIT-3
 

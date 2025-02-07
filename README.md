@@ -1,5 +1,20 @@
 # IT342-G1-Activity01
 
+
+
+# IT342-G1-Activity01
+
+Name: Shane Adrian Opinion
+Course & Year: BSIT-3
+
+It is what it is
+
+***
+
+
+
+=======
+=======
 Name: Selina Mae V. Genosolango
 Course & Year: BSIT - 3
 
@@ -44,6 +59,7 @@ Course & Year: BSIT-3
 If You Begin To Regret, You’ll Dull Your Future Decisions And Let Others Make Your Choices For You.
 
 ***
+
 
 Name: Vic Andre Bacusmo
 
@@ -219,6 +235,10 @@ I'm sleepy huhu
 Name: John Kenny C. Quijote <br>
 Course & Year: BSIT - 3
 
+
+****
+
+=======
 Kenny is my name and I am ready.
 
 
@@ -253,4 +273,5 @@ I'm sleepy huhu
  main
 
 ****
+
 

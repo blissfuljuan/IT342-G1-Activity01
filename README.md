@@ -79,7 +79,14 @@ Course & Year: IT 342 - 3
 
 
 # IT342-G1-Activity01
+Name: Ezekiel Gil Saludsod
+Course & Year: BSIT-3
 
+Not every hole is meant to be entered
+
+***
+=======
+=======
 
 
 Name: Martin John V. Tabasa
@@ -184,6 +191,11 @@ Kenny is my name and I am ready.
 Name: ADOPTANTE, Ivan Jay S. <br>
 Program & Year : BSIT - 3
 
+I'm sleepy huhu
+ 
+******** 
+=======
+=======
 
 
 

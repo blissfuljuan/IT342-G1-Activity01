@@ -1,10 +1,26 @@
 # IT342-G1-Activity01
+
 Name: ARDA, Brett Westley A.
 Course & Year: BSIT-3
 
 Here I am sitting
 
 **************
+
+
+Name: Paden, Arnel
+Course & Year: BSIT-3
+
+All religion is a foolish answer to a foolish question
+
+***
+
+Name: Ephraim Jay A. Solasco\
+Course & Year: IT 342 - 3
+
+"Never Stop Exploring!"
+***
+
 
 
 # IT342-G1-Activity01
@@ -26,6 +42,14 @@ Course & Year: BSIT - 3
 Nakakapagod mag BS Org huhu
 
 ***
+
+Name: Genesis T. Clabisellas
+Course & Year: BSIT-3
+
+Keep moving forward!
+
+***
+
 
 Name: Michael Harry P. Leones<br>
 Course & Year: BSIT-3
@@ -55,3 +79,4 @@ I'm sleepy huhu
 
 
 ****
+

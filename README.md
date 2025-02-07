@@ -195,6 +195,12 @@ Kenny is my name and I am ready.
 
 ****
 
+Name: Justin Alexander A. Labajos  
+Course & Year: BSIT - 3
+
+I'll be happy when I'm successful, nothing nice gets left for the restful
+
+***
 Name: ADOPTANTE, Ivan Jay S. <br>
 Program & Year : BSIT - 3
 
@@ -203,5 +209,8 @@ Program & Year : BSIT - 3
 I'm sleepy huhu
  
 ******** 
+
+
+
 
 

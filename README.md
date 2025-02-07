@@ -1,5 +1,12 @@
 # IT342-G1-Activity01
 
+Name: Mary Apple F. Ramos  
+Course & Year: BSIT-3
+
+Hope for the best. Expect for the worst.
+
+***
+
 Name: Alec R. Arela
 Course: & Year : BSIT-3
 
@@ -62,6 +69,7 @@ Name: Paden, Arnel
 Course & Year: BSIT-3
 
 All religion is a foolish answer to a foolish question
+
 
 ***
 
@@ -126,7 +134,6 @@ Course & Year: IT342 - 3
 
 > Special Quote: _Mi-a eyyyyyy!_
 *** 
-
 
 Name: Margaret Anne C. Matunog  
 Course & Year: BSIT - 3
@@ -206,13 +213,14 @@ I'll be happy when I'm successful, nothing nice gets left for the restful
 Name: ADOPTANTE, Ivan Jay S. <br>
 Program & Year : BSIT - 3
 
+****
+
 I'm sleepy huhu
  
 ******** 
-=======
-=======
 
-********
+
+
 
 =======
 

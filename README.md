@@ -2,5 +2,4 @@
     Name: Brian Steve E. Pila
     Course & Year: IT-342 - 3
 
-    Special Quote: "Walay lami ang kinabuhi kung walay karne🥩🥩"
-    
+    Special Quote: "Walay lami ang kinabuhi kung walay karne🥩🥩🥩"

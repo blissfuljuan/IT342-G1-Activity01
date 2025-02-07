@@ -1,4 +1,10 @@
-# IT342-G1-Activity01
+# IT342-G1-Activity01 
+Name: Matthew Emmanuel O. Echavez\
+Course & Year: IT342 - 3
+
+> Special Quote: _Mi-a eyyyyyy!_
+*** 
+
 
 Name: Margaret Anne C. Matunog  
 Course & Year: BSIT - 3
@@ -35,4 +41,3 @@ I'm sleepy huhu
 
 
 ****
-

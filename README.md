@@ -1,5 +1,15 @@
 # IT342-G1-Activity01
 
+feature-myprofile-baclayon
+Name: John Michael Baclayon
+Course & Year: BSIT - 4
+
+Don't never giveup
+
+
+
+# IT342-G1-Activity01
+
 feature-myprofile-catulong
 feature-myprofile-catulong
 Name: John David R. Catulong
@@ -11,6 +21,7 @@ Name: Alivio, Alyssa Blanche S. <br>
 Program & Year : BSIT - 3
 Hi! HRU?
 main
+ main
 
 Name: Walter Canencia
 Course & Year: BSIT - 3

@@ -1,22 +1,31 @@
-
 # IT342-G1-Activity01
 
+feature-myprofile-catulong
 feature-myprofile-catulong
 Name: John David R. Catulong
 Course & Year: BSIT-4
 
 unsaid words
 
+Name: Alivio, Alyssa Blanche S. <br>
+Program & Year : BSIT - 3
+Hi! HRU?
+main
+
 Name: Walter Canencia
 Course & Year: BSIT - 3
 
 Rumbling rumbling
 
+feature-myprofile-catulong
 
 
 main
 
 # IT342-G1-Activity01
+
+
+main
 
 Name: Shane Adrian Opinion
 Course & Year: BSIT-3
@@ -25,28 +34,18 @@ It is what it is
 
 ***
 
-
-
-=======
-=======
 Name: Selina Mae V. Genosolango
 Course & Year: BSIT - 3
 
-Honesty is the best policy
+It takes grace to remain kind in cruel situations.
 
 ***
-
-=======
-=======
-# IT342-G1-Activity01
-
 Name: John Michael Pogoy
 Course & Year: BSIT-3 
 
 I am what I eat
 
-===
-=======
+
 feature-myprofile-caaway
 Name: Caaway, Levi Ray T.  
 Course & Year: BSIT - 3
@@ -290,5 +289,5 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 
 At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
 
-***
-=======
+
+

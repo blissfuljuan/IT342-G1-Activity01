@@ -5,7 +5,15 @@ Course & Year : BSIT-3
 
 I am who I am
 =======
-=======
+
+Name: Paden, Arnel
+Course & Year: BSIT-3
+
+All religion is a foolish answer to a foolish question
+
+***
+
+
 Name: Ephraim Jay A. Solasco\
 Course & Year: IT 342 - 3
 

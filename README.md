@@ -44,12 +44,19 @@ Nakakapagod mag BS Org huhu
 
 ***
 
+
+Name: Derick Wayne A. Batucan
+Course & Year: BSIT-3
+
+I think therefore I am
+
 Name: Genesis T. Clabisellas
 Course & Year: BSIT-3
 
 Keep moving forward!
 
 ***
+
 
 
 Name: Michael Harry P. Leones<br>
@@ -80,5 +87,12 @@ I'm sleepy huhu
 
 
 ****
+
+
+
+
+
+
+
 
 

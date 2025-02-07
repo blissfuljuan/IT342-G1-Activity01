@@ -112,6 +112,11 @@ Life goes on...
 
 # IT342-G1-Activity01
 
+Name: Ben David Cadayona
+Course & Year: BSIT-4
+
+If I do not have to do it, I wont. If I have to do it, I'll make it quick
+=======
 Name: Martin John V. Tabasa
 Course & Year: BSIT-3
 
@@ -193,7 +198,6 @@ Course & Year: BSIT - 3
 
 Kenny is my name and I am ready.
 
-****
 
 Name: Stela Maries L. Asufra  
 Course & Year: BSIT-3
@@ -219,6 +223,7 @@ I'm sleepy huhu
  
 ******** 
 
+=======
 
 
 

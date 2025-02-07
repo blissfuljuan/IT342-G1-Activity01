@@ -10,6 +10,12 @@ dont me
 # IT342-G1-Activity01 
 
 # IT342-G1-Activity01
+Name: Nicolo Porter
+Course & Year: BSIT-3
+
+I am who I am
+
+***
 Name: Jannah Lovelle B. Sendrijas
 Course & Year: IT 342 - 3
 

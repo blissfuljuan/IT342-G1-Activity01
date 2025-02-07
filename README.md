@@ -1,15 +1,8 @@
 # IT342-G1-Activity01
 
-Name: John Kenny C. Quijote <br>
+Name: Caaway, Levi Ray T.  
 Course & Year: BSIT - 3
 
-Kenny is my name and I am ready.
-
-****
-
-Name: ADOPTANTE, Ivan Jay S. <br>
-Program & Year : BSIT - 3
-
-I'm sleepy huhu
+When you're gonna do something wrong, do it right.
 
 ****

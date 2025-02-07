@@ -26,6 +26,14 @@ Nakakapagod mag BS Org huhu
 
 ***
 
+Name: Genesis T. Clabisellas
+Course & Year: BSIT-3
+
+Keep moving forward!
+
+***
+
+
 Name: Michael Harry P. Leones<br>
 Course & Year: BSIT-3
 

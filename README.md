@@ -1,3 +1,4 @@
+
 # IT342-G1-Activity01
 Name: Nicolo Porter
 Course & Year: BSIT-3
@@ -5,6 +6,17 @@ Course & Year: BSIT-3
 I am who I am
 
 ***
+    Name: Brian Steve E. Pila
+    Course & Year: IT-342 - 3
+
+    Special Quote: "Walay lami ang kinabuhi kung walay karne🥩🥩🥩"
+
+Name: Matthew Emmanuel O. Echavez\
+Course & Year: IT342 - 3
+
+> Special Quote: _Mi-a eyyyyyy!_
+*** 
+
 
 Name: Margaret Anne C. Matunog  
 Course & Year: BSIT - 3
@@ -41,4 +53,3 @@ I'm sleepy huhu
 
 
 ****
-
